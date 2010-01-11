@@ -1,0 +1,13 @@
+This Program has been tested on OSX 10.4, using the builted-in python 2.3 version.
+It needs the following libraries to work succesfully:
+
+- PyAppscript : http://appscript.sourceforge.net/py-appscript/
+- PyObjC : http://pyobjc.sourceforge.net/
+
+After installing those dependencies, just copy the droplets over your desktop,
+and start using them!
+
+For now only the Magnet bin works (more or less) properly.
+
+The can named base is used as a template droplet. 
+The folder original contains dirty mockup code (aren't we talking about waste management here?) to be recycled.

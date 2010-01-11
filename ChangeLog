@@ -1,0 +1,10 @@
+version 0.1 - Mon Mar 30 2009
+    Initial public release.
+    The five differents bins are: 
+    * The Image Compression Artefact Recycling Bin
+    * The Image Recycle Bin
+    * The Compost Bin
+    * The Magnetizer Bin
+    * The Paper Shredder
+    For more informations about the functionalities, please see README and http://datateb.alexandreleray.com/
+
